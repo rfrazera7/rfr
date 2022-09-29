@@ -7,9 +7,8 @@
 - 📚⚛ I'm a technologist in Product Design (UniFtec), Physics bachelor's (UFRGS) and Master in Astronomy (USP).
 - 📝 I'm familiar with C, Python.
 - 💻 Now I'm also learning HTML | CSS | JavaScript
-- ✨ I have a scientific divulgation Instagram, with my arts/layouts: https://www.instagram.com/astroenigmas
+- ✨ I have a scientific divulgation Instagram, with my illustrations/layouts: https://www.instagram.com/astroenigmas
 - 🌞🌛 I'm a very curious/adventurous person, always trying to learn more and more.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertarazera/) or [Email](razeraroberta.rr@gmail.com)
 
 <br>
 <br>
@@ -17,7 +16,7 @@
 
 <div align="center">
 
-### **Contact Me**
+### **Here is how to contact me:**
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 0.4em">
 

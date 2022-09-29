@@ -20,9 +20,6 @@
 ### **Contact Me**
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 0.4em">
-#<a href="https://yasmincosta.com" target="_blank">
-#<img width=45 src="./Images/icons8-tiktok-verified-account.svg">
-#</a>
 
 <a href="https://www.instagram.com/astroenigma/" target="_blank">
 <img width=45 src="./Images/insta.png">
@@ -32,12 +29,12 @@
 <img width=45 src="./Images/linkedin.png">
 </a>
 
-<a href="mailto:roberta.razera@usp.br" target="_blank">
-<img width=45 height=45 src="./Images/mail.png">
-</a>
-
 <a href="https://behance.net/costayasmin" target="_blank">
 <img width=45 height=45 src="./Images/be.png">
+</a>
+
+<a href="mailto:roberta.razera@usp.br" target="_blank">
+<img width=45 height=45 src="./Images/mail.png">
 </a>
 
 </div>

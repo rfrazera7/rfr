@@ -20,7 +20,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 0.4em">
 
-<a href="https://www.instagram.com/astroenigma/" target="_blank">
+<a href="https://www.instagram.com/astroenigmas/" target="_blank">
 <img width=45 src="./Images/insta.png">
 </a>
 

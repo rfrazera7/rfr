@@ -1,5 +1,3 @@
-<img align="right" width=300 src="./Images/girl.jpg"/>
-
 ## <!-- <img align='right' width=200 src="assets/gummy-programming.svg"> -->
 
 ## **Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Roberta**
